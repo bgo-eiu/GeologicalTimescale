@@ -1,4 +1,4 @@
-root	root	root	root	root	root
+root	root	root	root	root	root	root	root
 n_a	 	 	 	 	 
 Phanerozoic	Phanerozoic	Phanerozoikum	顯生宙	Fanerozoikum	Fanerozoico
 Cenozoic	Cenozoic	Känozoikum	新生代	Kenozoikum	Cenozoico
@@ -67,7 +67,7 @@ Toarcian	Toarcian	Toarcium	托阿爾期	Toarc	Toarciense
 Pliensbachian	Pliensbachian	Pliensbachium	普連斯巴奇期	Pliensbach	Pliensbachiense
 Sinemurian	Sinemurian	Sinemurium	錫內穆期	Sinemur	Sinemuriense
 Hettangian	Hettangian	Hettangium	海塔其期	Hettang	Hettangiense
-Triassic	Triassic	Trias	三疊紀	Trias	Triásico
+Triassic	Triassic	Trias	三疊紀	Trias	Triásico	ٹرایاسِک
 Late_Triassic	Late Triassic	Obertrias	晚三疊世	Øvre trias	Triásico Tardío
 Rhaetian	Rhaetian	Rhaetium	瑞替期	Ræt	Rhaetiense
 Norian	Norian	Norium	諾利期	Nor	Noriense
